@@ -13,5 +13,6 @@ _Automate podcast downloads using Python, Airflow & SQLite3._
     CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
     pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
   ```
--Run airflow server in terminal
-  -'airflow standalone'
+- Run airflow server in terminal
+  - run 'airflow standalone' 
+  - run "pip install -r requirements.txt"
