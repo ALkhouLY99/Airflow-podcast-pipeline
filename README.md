@@ -15,6 +15,7 @@ _Automate podcast downloads using Python, Airflow & SQLite3._
         - myenv\Scripts\activate     # (Windows)
 - Install airflow
   - Follow the official Airflow setup guide:
+    - ```https://airflow.apache.org/docs/apache-airflow/stable/start/local.html```
 ## 🔗 Airflow Installation Guide
 ### 1️⃣ Set Environment Variables
   ``` 
