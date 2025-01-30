@@ -19,7 +19,7 @@ _Automate podcast downloads using Python, Airflow & SQLite3._
 ## 🔗 Airflow Installation Guide
 ### 1️⃣ Set Environment Variables
   ```
-    # run python --version
+    # run python --version --> to know python version okay👍
     export AIRFLOW_VERSION=2.10.4
     export PYTHON_VERSION=3.12
     export CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
