@@ -1,9 +1,9 @@
+# 🎧 PodCatch: Airflow Podcast Pipeline 🚀  
+_Automate podcast downloads using Python, Airflow & SQLite3._
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fae51b8d-8656-40eb-8eb0-b7a824b3aca2" width="500">
 </p>
 
-# 🎧 PodCatch: Airflow Podcast Pipeline 🚀  
-_Automate podcast downloads using Python, Airflow & SQLite3._
 **This project, tentatively titled "PodCatch," leverages the power of Python, SQLite3, and Apache Airflow to efficiently download podcasts.**
 ---
 ## 📌 1: Install Airflow and Configure
