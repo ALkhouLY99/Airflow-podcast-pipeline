@@ -6,8 +6,8 @@ _Automate podcast downloads using Python, Airflow & SQLite3._
 ### Prerequisites:
 - Recommend creating a virtualenv
   -  python -m venv myenv
-    - source myenv/bin/activate  # (Linux/Mac)
-    - myenv\Scripts\activate     # (Windows)
+        - source myenv/bin/activate  # (Linux/Mac)
+        - myenv\Scripts\activate     # (Windows)
 - Install airflow
   - Follow the official Airflow setup guide:
 ## 🔗 Airflow Installation Guide
